@@ -1,0 +1,310 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+ .head{
+    
+    background-image:url("images/coffe pix.jpg");
+    background-size: 1300px;
+    margin-top: -10px;
+    margin-left: -10px;
+
+     height: 700px;
+    width: 1530px; 
+
+    
+} 
+
+.nav{
+    
+    margin-top: 8px;
+    width: 1580px;
+    display: flex;
+    position: fixed;
+    background-color:aliceblue;
+    
+
+}
+.head1{
+    margin-top: -1px;
+    margin-left: 50px;
+}
+span{
+    color:red;
+}
+.navright{
+    padding: 10px 19px 0px 20px;
+    margin-left: 350px;
+}
+.headA{
+   
+    margin-top: 10px;
+    margin-left: 50px;
+    text-decoration: none;
+    color:black;
+   }
+
+   a:hover{
+    background-color:blueviolet;
+    color:yellow;
+   }
+.navuser{
+    margin-top: 10px;
+    margin-left: 40px;
+    color: brown;
+   }
+#searchicon{
+    margin-left: 40px;
+    margin-top: -1px;
+}
+
+.login{
+    margin-left: 10px;
+    text-decoration: none;   
+    color: brown;
+    }
+
+    .headmid{
+        
+        display: flex;
+        margin-left: 400px;
+        margin-top: 200px;
+    }
+     .headcenter{
+        margin-top: 100px;
+        margin-left: 40px;
+    } 
+    #headh3{
+        color: brown;
+    }
+    #but1{
+        background-color: brown;
+        color: white;
+        height: 40px;
+        width: 125px;
+        border-radius: 4px;
+    }
+    #but2{
+        background-color:black;
+        color: white;
+        height: 40px;
+        width: 125px;
+        border-radius: 4px;
+    }
+    #head2{
+        text-decoration: solid;
+        font-size: 60px;
+    }
+    .downhead{
+        margin-top: 50px;
+        text-align: center;
+    }
+    #downhead2{
+        display: flex;
+        margin: 40px 15px 15px 18px;
+        text-align: center;
+        
+    }
+    #offers{
+        width:90%;
+    }
+    #but3{
+        border-radius: 4px;
+        color:red;
+        
+        margin-top: 4px;
+        margin-left: 40px;
+        height: 50px;
+        width: 130px;
+    }
+    .middle{
+        text-align: center;
+        margin-top: 65px;
+    }
+    .middledown{
+        
+        justify-content: center;
+        display: flex;
+        margin: 60px;
+    }
+    .middletext{
+    
+        position:absolute;
+        padding: 70px 50px 50px 50px;
+        border: 2px solid black;
+        margin-bottom: 40px;
+        margin-top: 60px;
+        color: black;
+        border-radius: 5px;
+        width: 400px;
+        height: 370px;
+        background-color: white;
+        margin-left: -930px;
+    
+    }
+    .middletext p{
+          color:cadetblue;
+          display:flex;
+          
+    }
+
+   #but4{
+        padding: 10px 50px 10px 50px;
+        color: brown;
+    }
+   .customers{
+    background-image: url("images/jess.jpg");
+    background-size:1440px;
+     height: 900px;
+    width:1530px; 
+    
+    
+   }
+   
+   .whatsyas{
+    padding-top: 40px;
+    text-align: center;
+   }
+   .moark{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 250px;
+   }
+   .moarkleft{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 70px;
+   }
+
+   .ourblog{
+    display:flex;
+    
+    
+    margin-top: 50px;
+    margin-left: 280px;
+
+   }
+   
+   
+   .tech{
+    margin-left: 50px;
+    border: 1px solid;
+    
+    box-shadow: 0px 2px 5px 3px  rgb(134, 134, 170);
+
+   }
+
+   .techniques{
+    margin-right:0px;
+    border: 1px solid black;
+    margin-left: 50px;
+
+    box-shadow:0px 2px 5px 3px rgb(134, 134, 170);
+   }
+   #prepcoffee{
+    margin-left: 15px;
+    ;
+   }
+   
+     .gettouch{
+        margin-top: 50px;
+        border: 1px solid black;
+        
+     }
+     .inputtext{
+        text-align: center;
+        margin-left: 70px;
+     }
+     #name{
+        
+        margin-left: -150px;
+        background-color:cornsilk;
+        
+        padding: 10px 400px 10px 10px;
+        border-radius:20px ;
+        font-size: larger;
+
+     }
+
+     #massage{
+        margin-left: -150px;
+        background-color: cornsilk;
+        padding: 30px 400px 30px 10px;
+        border-radius: 2px;
+        font-size: larger;
+        
+     }
+     .but5{
+        padding: 10px 30px 10px 30px;
+        margin: 10px 20px 10px 400px;
+        background-color: crimson;
+        color: aliceblue;
+        border-radius: 8px ;
+     }
+
+     .coffeefooter{
+        background-color: rgb(41, 39, 39);
+     }
+     .footertext{
+        padding: 60px;
+        color: azure;
+        text-align: center;
+     }
+     .footertext p{
+        text-align: center;
+        
+     }
+     .twitter{
+        width: 30px;
+        background-color: aqua;
+     }
+     
+     #email{
+        border: 1px solid green;
+        color:black;
+        font-size: 20px;
+        margin-left: 430px; 
+
+        padding: 10px 420px 10px 10px;
+     }
+     .box1{
+        display: relative;
+     }
+     #telephone{
+        margin: 5px;
+        margin-bottom: -4px;
+        background-color: white;
+        width: 20px;
+     }
+     #mail{
+        margin: 2px;
+        width: 23px;
+        margin-bottom: -6px;
+     }
+    .box2{
+        margin-bottom: 0px;
+        padding-top: 10px;
+        padding-left: 100px;
+        display: flex;
+        
+        height: 50px;
+        
+        background-color: darksalmon;
+     }
+     .logo3{
+        width: 45px;
+        
+        margin-bottom: -16px;
+        margin-left: -6px;
+        
+        background-color:darksalmon;
+     }
+     .socialicon{
+       margin-bottom: 15px;
+        margin-left: 850px; 
+     }
+     
+     
+     
